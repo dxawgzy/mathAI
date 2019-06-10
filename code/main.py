@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 # 此文件和test.py文件类似，不过可以看到更详细中间输出结果，可以用来调试
 
 
