@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 from tools.image_input import read_img_file
 import tensorflow as tf
 from tools.cnn_model import cnn_model_fn

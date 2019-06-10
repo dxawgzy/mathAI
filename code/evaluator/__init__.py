@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 # 求极限测试样例:https://github.com/sympy/sympy/blob/master/sympy/series/tests/test_demidovich.py
 from solver import *
 import os

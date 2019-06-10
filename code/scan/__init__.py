@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 from config import  DFA_STATE
 import config
 from tools import get_spatial_relationship,join_locations,get_keys

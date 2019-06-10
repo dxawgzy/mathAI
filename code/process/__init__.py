@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 from scan import get_token
 import tensorflow as tf
 import tools

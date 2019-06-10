@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 from config import IMG_SIZE
 import numpy as np
 from config import SPACIAL_RELATIONSHIP as spatial_relationship,NUM_OF_CANDIDATES,FILELIST,UNCONTINOUS_SYMBOLS
